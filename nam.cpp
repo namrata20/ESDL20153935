@@ -1,5 +1,5 @@
 #include<iostream.h>
-void main()
+int main()
 {
 cout<<"\nHello World!";
 int a,b;
@@ -8,4 +8,5 @@ cin>>a;
 cout<<"\nEnter value for b:";
 cin>>b;
 cout<<a<<b;
+return 0;
 }
